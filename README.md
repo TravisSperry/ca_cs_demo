@@ -14,7 +14,7 @@
 # Overview
 
 Let's learn how to add the Bootstrap style framework to our projects. After that we'll take a quick
-look at jQuery and then we will try to tackle a CoveMyMeds technical interview question 😅
+look at jQuery and then we will try to tackle a technical interview question 😅
 
 ## Resources
 
