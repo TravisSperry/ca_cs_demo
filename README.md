@@ -1,4 +1,5 @@
-```___      _                 _                   _                 _
+```
+   ___      _                 _                   _                 _
   / __\___ | |_   _ _ __ ___ | |__  _   _ ___    /_\   ___ __ _  __| | ___ _ __ ___  _   _
  / /  / _ \| | | | | '_ ` _ \| '_ \| | | / __|  //_\\ / __/ _` |/ _` |/ _ \ '_ ` _ \| | | |
 / /__| (_) | | |_| | | | | | | |_) | |_| \__ \ /  _  \ (_| (_| | (_| |  __/ | | | | | |_| |
@@ -31,7 +32,7 @@ look at jQuery and then we will try to tackle a CoveMyMeds technical interview q
 
 ## Setup
 
--[] Create an (html5 document)[https://www.w3schools.com/html/html5_intro.asp]
+- [ ] Create an (html5 document)[https://www.w3schools.com/html/html5_intro.asp]
 -[] Add all of the link and style tags for Bootstrap and jQuery to the head section of your doc
  - The can be found (here)[https://getbootstrap.com/] in the BootstrapCDN section on the first page
  - Be sure to add the CSS and JS links
